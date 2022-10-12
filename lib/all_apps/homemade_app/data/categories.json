@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cloth",
+    "url": "./assets/images/all_apps/homemade_app/category/cloth.png",
+    "description": "These are simple Cream Cakes with only cream decoration with different colors. Decoration will include different designs and techniques. Extra price for extra decoration and customisation."
+  },
+  {
+    "name": "Cosmetic",
+    "url": "./assets/images/all_apps/homemade_app/category/cosmetic.png",
+    "description": "These are simple Cream Cakes with only cream decoration with different colors. Decoration will include different designs and techniques. Extra price for extra decoration and customisation."
+  },
+  {
+    "name": "Food",
+    "url": "./assets/images/all_apps/homemade_app/category/fastfood.png",
+    "description": "These are simple Cream Cakes with only cream decoration with different colors. Decoration will include different designs and techniques. Extra price for extra decoration and customisation."
+  },
+  {
+    "name": "Pizza",
+    "url": "./assets/images/all_apps/homemade_app/category/pizza.png",
+    "description": "These are simple Cream Cakes with only cream decoration with different colors. Decoration will include different designs and techniques. Extra price for extra decoration and customisation."
+  }
+]
